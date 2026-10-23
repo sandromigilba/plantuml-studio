@@ -1,6 +1,14 @@
 # PlantUML Studio
 
-Aplikasi web modern berbasis **Nuxt 3 / Nuxt 4 (Vue 3, Composition API, TypeScript)** dan **Tailwind CSS** untuk menulis kode PlantUML dan melihat pratinjau diagram secara *live* dan interaktif.
+[![Nuxt 4](https://img.shields.io/badge/Nuxt-4.x-00DC82?logo=nuxt.js&logoColor=white)](https://nuxt.com/)
+[![Vue 3](https://img.shields.io/badge/Vue-3.5-4FC08D?logo=vuedotjs&logoColor=white)](https://vuejs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![CodeMirror](https://img.shields.io/badge/CodeMirror-6.x-E95420?logo=codemirror&logoColor=white)](https://codemirror.net/)
+[![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+**PlantUML Studio** adalah aplikasi web untuk merancang, mengedit, dan memvisualisasikan diagram dengan code PlantUML
 
 ---
 
