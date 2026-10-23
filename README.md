@@ -8,7 +8,7 @@
 [![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**PlantUML Studio** adalah aplikasi web yang dirancang untuk menulis kode PlantUML dan melihat pratinjau diagram secara live dan interaktif
+**PlantUML Studio** adalah aplikasi berbasis web yang dirancang untuk menulis kode PlantUML dan melihat pratinjau diagram secara live dan interaktif
 
 ---
 
